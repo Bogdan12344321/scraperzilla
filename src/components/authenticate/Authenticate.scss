@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    height: 100%;
+  
+    #col-2 {
+      background-color: #242538;
+      flex: 1.5;
+      display: flex; /* NEW, Spec - Firefox, Chrome, Opera */
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      text-align: center;
+      min-height: 100vh;
+      #firstH {
+        font-weight: 700 !important;
+        font-size: 50px;
+        color: #ffff;
+      }
+      #secondH {
+        font-weight: 700 !important;
+        font-size: 50px;
+        color: hsl(0, 64%, 58%) !important;
+      }
+    }
+  }
