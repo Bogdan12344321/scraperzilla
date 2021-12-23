@@ -19,7 +19,7 @@ After everything is installed run `npm start`, the app should run on localhost:3
 Run `npm install`
 
 # Step 3.1
-        After you installed the packages we need to updated the .env file to be able to connect to our data base.
+        After you installed the packages we need to updated the .env file to be able to connect to our data base. I left the .env file there for you guys to move faster in installing the project.
 
 # Step 3.2
         Go to `https://www.mongodb.com/cloud/atlas/register?utm_content=rlsapostreg&utm_source=google&utm_campaign=gs_emea_rlsamulti_search_brand_dsa_atlas_desktop_rlsa_postreg&utm_term=&utm_medium=cpc_paid_search&utm_ad=&utm_ad_campaign_id=14412646473&adgroup=131761130372&gclid=CjwKCAiAtouOBhA6EiwA2nLKHwVqKHpPuiGg1K4zDRf3IbwNFO78ortn240pru8nP4mRAIGiJyY49BoCJigQAvD_BwE`, login and build a free cluster.
